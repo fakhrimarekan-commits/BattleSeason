@@ -1,0 +1,15 @@
+D:\PG TELKOM\BattleSeason\BattleSeason\obj\Debug\net10.0\BattleSeason.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG TELKOM\BattleSeason\BattleSeason\obj\Debug\net10.0\BattleSeason.AssemblyInfoInputs.cache
+D:\PG TELKOM\BattleSeason\BattleSeason\obj\Debug\net10.0\BattleSeason.AssemblyInfo.cs
+D:\PG TELKOM\BattleSeason\BattleSeason\obj\Debug\net10.0\BattleSeason.csproj.CoreCompileInputs.cache
+D:\PG TELKOM\BattleSeason\BattleSeason\obj\Debug\net10.0\BattleSeason.sourcelink.json
+D:\PG TELKOM\BattleSeason\BattleSeason\bin\Debug\net10.0\BattleSeason.exe
+D:\PG TELKOM\BattleSeason\BattleSeason\bin\Debug\net10.0\BattleSeason.deps.json
+D:\PG TELKOM\BattleSeason\BattleSeason\bin\Debug\net10.0\BattleSeason.runtimeconfig.json
+D:\PG TELKOM\BattleSeason\BattleSeason\bin\Debug\net10.0\BattleSeason.dll
+D:\PG TELKOM\BattleSeason\BattleSeason\bin\Debug\net10.0\BattleSeason.pdb
+D:\PG TELKOM\BattleSeason\BattleSeason\obj\Debug\net10.0\BattleSeason.dll
+D:\PG TELKOM\BattleSeason\BattleSeason\obj\Debug\net10.0\refint\BattleSeason.dll
+D:\PG TELKOM\BattleSeason\BattleSeason\obj\Debug\net10.0\BattleSeason.pdb
+D:\PG TELKOM\BattleSeason\BattleSeason\obj\Debug\net10.0\BattleSeason.genruntimeconfig.cache
+D:\PG TELKOM\BattleSeason\BattleSeason\obj\Debug\net10.0\ref\BattleSeason.dll
